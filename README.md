@@ -1,3 +1,3 @@
 # Amazon_Subscription
-Amazon subscription details
+Amazon subscription details.
 Receive the user details and provide the remaining days of the subscription.
